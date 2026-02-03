@@ -1,0 +1,31 @@
+codigo,marca,tipo,categoria,preco_unitario,custo,obs
+TV001,Samsung,TV,Eletrônicos,1800.00,1500.00,estoque cheio
+TV002,LG,TV,Eletrônicos,1450.00,1200.00,
+MDTR1402,Adidas,Camisa,Roupas,85.00,60.00,estoque cheio
+MDTR1403,Nike,Camisa,Roupas,100.00,70.00,
+MDTR1501,Havaianas,Chinelo,Calçados,40.00,25.00,estoque baixo
+MDTR1502,Ipanema,Chinelo,Calçados,35.00,20.00,
+PNL1001,Tramontina,Panela,Cozinha,150.00,100.00,estoque cheio
+PNL1002,Brinox,Panela,Cozinha,120.00,80.00,
+FRG2001,Eletrolux,Fogão,Eletrodomésticos,1600.00,1300.00,
+FRG2002,Consul,Fogão,Eletrodomésticos,1400.00,1100.00,estoque cheio
+MSC3001,Philco,Microondas,Eletrodomésticos,550.00,400.00,
+MSC3002,LG,Microondas,Eletrodomésticos,600.00,450.00,estoque cheio
+CDR4001,Arno,Secador de Cabelo,Beleza,220.00,150.00,estoque baixo
+CDR4002,Gama Italy,Secador de Cabelo,Beleza,270.00,200.00,
+LPT5001,Dell,Notebook,Eletrônicos,4200.00,3500.00,estoque cheio
+LPT5002,HP,Notebook,Eletrônicos,3800.00,3200.00,
+CLT6001,Motorola,Smartphone,Eletrônicos,1300.00,1000.00,estoque cheio
+CLT6002,Samsung,Smartphone,Eletrônicos,1450.00,1200.00,
+RFR7001,Brastemp,Geladeira,Eletrodomésticos,3000.00,2500.00,estoque cheio
+RFR7002,Eletrolux,Geladeira,Eletrodomésticos,2900.00,2400.00,
+CHV8001,Canon,Câmera,Eletrônicos,2700.00,2200.00,
+CHV8002,Nikon,Câmera,Eletrônicos,2500.00,2000.00,estoque baixo
+TMP9001,Colgate,Creme Dental,Higiene,15.00,10.00,estoque cheio
+TMP9002,Oral-B,Creme Dental,Higiene,18.00,12.00,
+SAB1001,Dove,Sabão Líquido,Higiene,28.00,20.00,estoque cheio
+SAB1002,Omo,Sabão Líquido,Higiene,25.00,18.00,
+CPS1101,Sony,Console,Jogos,2900.00,2300.00,estoque cheio
+CPS1102,Microsoft,Console,Jogos,3100.00,2500.00,
+BJA1201,Faber-Castell,Caneta,Escritório,8.00,5.00,estoque baixo
+BJA1202,Bic,Caneta,Escritório,6.00,3.00,estoque cheio
